@@ -4,7 +4,7 @@ This repository contains a collection of healthchecks designed for use with Dock
 
 ## ✨ Features
 
-- 🔍 **Custom Healthchecks**: Ready-to-use scripts for monitoring container health.
+- 🔍 **Custom Healthchecks**: Ready-to-use healthchecks for monitoring container health.
 - 🌍 **Wide Compatibility**: Designed to work seamlessly with various containers.
 - ⚡ **Easy Integration**: Drop-in healthcheck commands for Docker Compose services.
 - 🐾 **Watchdog-Friendly**: Ideal for use with Watchdog to automate container restarts when issues are detected.
