@@ -1,0 +1,5 @@
+healthcheck:
+  test: pg_isready -U svc_postgres -h localhost || exit 1 # Replace svc_postgres with your postgres user
+  interval: 5s
+  timeout: 2s
+  retries: 2
